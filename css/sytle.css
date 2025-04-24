@@ -1,8 +1,3 @@
-body {
+* {
     font-family: 'Inter', sans-serif;
-}
-@import "tailwindcss";
-@theme {
-  --color-vinho: #9f0000;
-  
 }
